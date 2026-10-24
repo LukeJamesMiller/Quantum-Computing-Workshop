@@ -26,7 +26,7 @@ The doors from the parking garage into Royal Hall are generally open, and you ca
 | 1:30 | Project selection, initial research, run the starter notebook | [Notebooks](https://github.com/LukeJamesMiller/Quantum-Computing-Workshop/tree/main/Hackathon_starter_projects) |
 | 3:00 | Break, tea and cookies | |
 | 3:15 | Project specialization: make the starter your own | |
-| 5:00 | End of workshop | |
+| 5:00 | End of workshop  **Luke, share learning resources** | |
 
 Luke will be floating around answering questions during both afternoon work sessions.
 
