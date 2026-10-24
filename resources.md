@@ -1,13 +1,11 @@
+
+TALK RESOURCES
+
+- Video recording: https://youtu.be/TMByec6EfVE
+- Slides: https://docs.google.com/presentation/d/1pkLra7CKwKWn114NV5ZkPp-Z5IAlju7wTrtRaeDLopY/edit?usp=sharing
+
 ---
-
- TALK RESOURCES
-
-• Video recording: https://youtu.be/TMByec6EfVE
-• Slides: https://docs.google.com/presentation/d/1pkLra7CKwKWn114NV5ZkPp-Z5IAlju7wTrtRaeDLopY/edit?usp=sharing
-
----
-
- GETTING STARTED — IN ORDER
+GETTING STARTED — IN ORDER
 
 If you're just curious what quantum computing actually is and why it matters, start here:
 
@@ -43,8 +41,8 @@ A more advanced companion to Nielsen & Chuang.
 
 I recently gave a week-long series of lectures through Qiskit Fall Fest. The lectures build on each other, so if you're starting from scratch I'd recommend beginning at the beginning — but each one is kept short (~30 minutes) with an accompanying hands-on notebook, so it's easy to work through at your own pace. Topics covered include quantum circuits, Qiskit workflows, quantum algorithms (Shor's, Grover's, Deutsch-Jozsa), error correction, hardware optimization, variational methods (VQE/QAOA), noise mitigation, and quantum careers.
 
-• Full playlist: https://youtube.com/playlist?list=PLgFqa_rlpO1bDFTc-UtXBZKN8aqc97Ddw
-• Slides and notebooks: Join the QFF25 Discord → https://discord.gg/bJ7HnAMFDV
+- Full playlist: https://youtube.com/playlist?list=PLgFqa_rlpO1bDFTc-UtXBZKN8aqc97Ddw
+- Slides and notebooks: Join the QFF25 Discord → https://discord.gg/bJ7HnAMFDV
 
 ---
 
