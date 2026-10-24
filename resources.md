@@ -1,13 +1,13 @@
 ---
 
-📽️ TALK RESOURCES
+ TALK RESOURCES
 
 • Video recording: https://youtu.be/TMByec6EfVE
 • Slides: https://docs.google.com/presentation/d/1pkLra7CKwKWn114NV5ZkPp-Z5IAlju7wTrtRaeDLopY/edit?usp=sharing
 
 ---
 
-🚀 GETTING STARTED — IN ORDER
+ GETTING STARTED — IN ORDER
 
 If you're just curious what quantum computing actually is and why it matters, start here:
 
@@ -39,7 +39,7 @@ A more advanced companion to Nielsen & Chuang.
 
 ---
 
-🎓 QISKIT FALL FEST LECTURE SERIES
+ QISKIT FALL FEST LECTURE SERIES
 
 I recently gave a week-long series of lectures through Qiskit Fall Fest. The lectures build on each other, so if you're starting from scratch I'd recommend beginning at the beginning — but each one is kept short (~30 minutes) with an accompanying hands-on notebook, so it's easy to work through at your own pace. Topics covered include quantum circuits, Qiskit workflows, quantum algorithms (Shor's, Grover's, Deutsch-Jozsa), error correction, hardware optimization, variational methods (VQE/QAOA), noise mitigation, and quantum careers.
 
@@ -48,7 +48,7 @@ I recently gave a week-long series of lectures through Qiskit Fall Fest. The lec
 
 ---
 
-⚛️ JOIN QSAIC
+ JOIN QSAIC
 
 If you want to stay connected to the quantum computing community at UMKC, consider joining QSAIC — the Quantum Society for AI & Computation. We sponsor hackathons, host events like Qiskit Fall Fest, and share news and opportunities in quantum computing and AI. Membership is open to anyone interested.
 
